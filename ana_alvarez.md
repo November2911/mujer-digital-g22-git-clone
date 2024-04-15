@@ -25,4 +25,6 @@
 
 I am a quick learner and am always looking for new opportunities to learn and improve my skills. I am interested in learning about new technologies, frameworks and development methodologies.
 
-<img> (https://hackmd.io/_uploads/ByxtozqxC.jpg) </img>
+<a href>
+    <img> (https://hackmd.io/_uploads/ByxtozqxC.jpg) </img>
+</href>
